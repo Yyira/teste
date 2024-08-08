@@ -1,3 +1,4 @@
 MINHA LISTA DE TAREFAS
 1. Aprender a utilizar o git
 2. aprender a atulizar um arquivo no github
+3. aprende a utlizar os branch
